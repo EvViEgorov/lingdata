@@ -7,7 +7,7 @@
 <!-- зона заголовка html, тег <title> - строка, которую браузер отображает на вкладках над страницами, <meta> и <link> сообщают технические сведения для браузера, например, что файл имеет кодировку Юникод (utf-8) -->
 
 	<head>
-		<title>Личная страница Веры Кузнецовой</title>
+		<title>Личная страница Егорова Евгения</title>
 	 	<!-- Required meta tags -->
 	 	<meta charset="utf-8">
 	 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,17 +25,17 @@
 
 <!-- меню (navigation bar) -->
 
-		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom" style="background-color:#006400">
 
 <!-- div - это контейнеры - коробочки с текстом и/или графикой, которые можно вкладывать друг в друга. Пристально смотреть на теги в этой части кода не нужно -->
 			<div class="container"> 
 				<div class="navbar-header"> 
-					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+					<a href="https://ling.hse.ru/" class="navbar-brand"><font face="lucida console" color="#FFFFFF">Школа лингвистики НИУ ВШЭ</font></a> 
 				</div> 
 				<nav class="collapse navbar-collapse" id="bs-navbar"> 
 					<ul class="nav navbar-nav navbar-right"> 
-						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/index.html">Страница курса</a> </li> 
-						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/latin_2.html">Страница группы</a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2024/index.html"><font face="lucida console" color="#FFFFFF">Страница курса</font></a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2024/baling_2024_lat1.html"><font face="lucida console" color="#FFFFFF">Страница группы</font></a> </li> 
 <!-- поправьте номер группы в URL, если нужно (от 1 до 4) -->
 					</ul>
 				</nav> 
@@ -44,26 +44,44 @@
 
 <!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
 
-		<header style="background-color:plum; padding-top:70px; "> 
+		<header style="background-color:#228B22; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
 						<br><br>
 <!-- здесь и дальше нужно поменять весь содержательный текст, чтобы получилась ваша личная страница -->
-						<h1>Вера Кузнецова</h1>
+						<h1><font face="lucida console" size="6px" color="#FFFFFF">Егоров Евгений</font></h1>
 						<hr> <!-- это горизонтальная линия -->
-						<p><i>Человек, умеющий <b>создавать</i> HTML</b></p> 
+						<font face="lucida console" color="#FFFFFF">
+							<p><b><i>a.k.a.</i></b></p>
+							<ul{padding: 0; margin: 0;}>
+								<li>Eugeniusz Mickiewicz</li>
+								<li>Eine Das (немцы простите за ник)</li>
+								<li>Общажный бариста</li>
+								<li><i>"Ну тот чел который с детства фанат МФА"</i></li>
+							</ul>
+						</font>	
 					</div>
 					<div class="col-md-4">
 <!-- img - тег для вставки изображений. Мы использовали атрибут style, чтобы задать размер изображения и ширину рамки-->
 <!-- Измените URL на URL вашей фотографии, а также настройте размер изображения -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" style="height:320px; margin:20px 20px 40px 20px; " >
+<img src="https://evviegorov.github.io/lingdata/mywebpage/myphoto.jpg" style="height:280px; margin:20px 20px 40px 20px; padding-left: 0px; border: 2px solid #FFFFFF" >
+					</div>
+					<div class="col-md-4">
+						<font face="lucida console" size="3px" color="#FFFFFF">
+							<br><br><br>
+							<p align="justify">
+								<i>«Признак образованного ума - способность принять мысль, не соглашаясь с ней»</i><hr>
+								<b>Какая-то цитата Аристотеля из Civilization 6 которая мне зашла</b>
+							</p>
+						</font>
 					</div>
 				</div>
 			</div>
 		</header>
 
 <!-- часть страницы, которая под шапкой -->
+		
 		<section id="portfolio">
 			<div class="container">
 
@@ -71,52 +89,56 @@
 				<div class="col-md-3">
 
 <!-- <article> не влияет на оформление, но помогает структурировать контент на осмысленые разделы -->
-					<article>
-						<h3>Место учебы</h3>
-						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
-					</article>
-					<article>
-						<h3>Родной город</h3>
-						<p>Новосибирск</p>
-					</article>
-					<article>
-						<h3>Школа</h3>
-<!-- когда будете менять текст, не используйте бюрократических слов типа ГБОУ СОШ, ну пожаалуйста -->
-						<p>СУНЦ НГУ</p>
-					</article>
+					<font face="lucida console">
+						<article>
+							<h3>Место учебы</h3>
+							<p>Фундаментальная и компьютерная лингвистика, НИУ ВШЭ, Москва</p><hr>
+						</article>
+						<article>
+							<h3>Родной город</h3>
+							<p>Нижний Тагил<br>(пж без "Тагил рулит" пж пж)</p><hr>
+						</article>
+						<article>
+							<h3>Школа</h3>
+	<!-- когда будете менять текст, не используйте бюрократических слов типа ГБОУ СОШ, ну пожаалуйста -->
+							<p>Школа № 9</p><hr>
+						</article>
+						<h3>Контакты</h3>
+						<a href="https://t.me/einedas"><img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo-700x700.png" height="40" alt="TG"></a>
+						<a href="https://github.com/evviegorov"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo-700x700.png"height="40" alt="GHub"></a>
+						
+	<!-- тег <ul> - unordered list. Еще бывает тег <ol> -->
+					</font>
 				</div>
 
-				<div class="col-md-6">
-					<article>
-						<h3>Тут можно написать</h3>
-						<p>Еще много много много много много много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						всего о себе</p>
-					</article>
-				</div>
-
-				<div class="col-md-3">
-					<h3>Я в соцсетях</h3>
-<!-- тег <ul> - unordered list. Еще бывает тег <ol> -->
-					<ul>
-						<li>VK</li>
-						<li>Discord</li>
-						<li>Telegram</li>
-					</ul>
+				<div class="col-md-9">
+					<font face="lucida console">
+						<article>
+							<h3>Кратко (или не очень) обо мне</h3>
+							<ul{padding: 0; margin: 0;}>
+								<li>Все ещё в шоке что поступил в вышку на первый приоритет будучи ЕГЭшником</li>
+								<li>Рад что узнал про ФиКЛ/ФиПЛ раньше чем было бы слишком поздно начать готовиться к математике</li>
+								<li>Хобби - начинать учить язык и забрасывать через пару недель<br>(зато потом можно умничать и рассказывать всякие фактики про этот язык)</li>
+								<li>В 8 классе по приколу научился произосить весь МФА<br>(ну ладно, почти весь МФА)</li>
+								<li>Сварганил недоконланг в котором 21 гласная фонема но забросил его (может захочу возродить, кто знает...)</li>
+							</ul><hr>
+							<h3>А если забыть (на время!) про лингвистику</h3>
+							<ul{padding: 0; margin: 0;}>
+								<li>Люблю готовить кофе, люблю пить кофе, <s>я есть кофе</s>. Соседи предлагают открыть в Дубках свою кофейню, пока думаю над этим предложением (шутка. <s>или нет</s>).</li>
+								<li>Музыкальные вкусы весьма... специфичны. один из любимых жанров — фолк в современной обработке<br>(пример — творчество белорусской группы Pawa).</li>
+								<li>Обожаю средние и малые российские города с сохранившейся исторической застройкой досоветской эпохи (привет Коломне, хочу съездить к вам).</li>
+							</ul>
+						</article>
+					</font>
 				</div>
 			</div>
 		</section>
 
 <!-- это подвал. В этой части страницы обычно ставят копирайт (с помощью символа &copy;) и пишут об истории создания страницы. Поставьте свой копирайт -->
 		<footer class="bs-docs-footer"> 
-			<div class="container"> 
-				<p style="text-align:right; ">&copy; В. Кузнецова, 2024</p> 
+			<div class="container">
+				<br><br>
+				<font face="lucida console"><p style="text-align:right; "><b>&copy; Е.Егоров, 2024</b></p></font>
 			</div>
 		</footer>
 	</body>

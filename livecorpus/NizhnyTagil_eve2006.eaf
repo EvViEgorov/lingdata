@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T22:08:52+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T23:48:49+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -11,7 +11,7 @@
             MEDIA_URL="file:///C:/Users/User/Desktop/ELAN/NizhnyTagil_eve2006.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./NizhnyTagil_eve2006.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c0b40004-2996-4045-a6e7-9d1c449a775c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="847310"/>
@@ -19,26 +19,26 @@
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="850764"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="851182"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="851386"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="852877"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="852891"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="855671"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="856057"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="858457"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="858464"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="859028"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="859064"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="860850"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="861221"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="861636"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="862243"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="862621"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="862621"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="862950"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="863707"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="866794"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="866829"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="867165"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="867188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="855671"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="856057"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="858457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="858464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="859028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="859064"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="860850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="861221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="861636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="862243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="862621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="862621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="862950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="863707"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="866794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="866829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="867165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="867188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="867188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="869250"/>
         <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="869250"/>
         <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="869335"/>
         <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="870043"/>
@@ -47,13 +47,11 @@
         <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="870788"/>
         <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="872470"/>
         <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="872500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="873806"/>
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="874129"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="875482"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="875882"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="877712"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="878418"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="880153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="875482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="875882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="877712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="878418"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="880153"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="evviegorov" LINGUISTIC_TYPE_REF="utterance"
         PARTICIPANT="@eve2006m" TIER_ID="text@eve2006m">
@@ -66,73 +64,67 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>#чмок#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#чмоканье#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>как-то несистемно крутили /</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
-                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>то есть / ээ / показали одну серию / потом сразу же //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>как-то несистемно крутили то есть / ээ / показали одну серию / потом сразу же //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
-                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
                 <ANNOTATION_VALUE>с другого сезона совершенно другую серию и я //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
-                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
                 <ANNOTATION_VALUE>#вздох#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
-                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>понимал что как бы мультфильм-то сюжетный //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
-                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>должен //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
-                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>серии-то одна за другой идут и там постепенно раскрывают персонажей а //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
-                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>#вздох#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
-                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
                 <ANNOTATION_VALUE>показывали их в каком-то= / странном порядке //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>мне...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мне</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>#чмок#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#чмоканье#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -144,25 +136,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
                 TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>в итоге я тогда полез //</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
-                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>в какую-то группу ВКонтакте //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>в итоге я тогда полез // в какую-то группу ВКонтакте //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
-                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
                 <ANNOTATION_VALUE>в которую выкладывали эти серии в оригинале //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
-                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>с любитель= любительским переводом</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>с любитель= c любительским переводом //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -170,15 +156,104 @@
         PARTICIPANT="@ayg2006m" TIER_ID="text@ayg2006m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
-                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>#нрзб#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>#нрзб#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="evviegorov" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@eve2006m" PARTICIPANT="@eve2006m" TIER_ID="spokencorpora@eve2006m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>К сожалению, мне не /нра̱вилось, как-к ∙∙ ээ этот /мультфильм ==</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>{ЧМОКАНЬЕ}</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>∙∙∙∙ как-то \н-несисте̱мно крутили, то есть ээ ∙∙ показали /одну̱ серию, ∙∙ потом сразу же,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>∙∙∙ с другого сезона совершенно /другую̱ серию, и я,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>{ВЗДОХ}</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>∙∙∙ понимал, что как бы мультфильм-то /сюже̱тный,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>∙∙∙∙ должен,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>∙∙∙∙ серии-то одна за другой идут, и там постепенно /раскрыва̱ют персонажей, а,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>{ВЗДОХ}</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>∙∙∙ показывали их в какиᵂм-т’ ∙∙ странном /поря̱дке.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Мне-е,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>{ЧМОКАНЬЕ}</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>∙∙ это вообще не /нра̱вилось, ∙∙ и,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>∙∙ в итоге я тогда полез ∙∙∙ в какую-то группу /ВКонта̱кте,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>∙∙∙ в которую выкладывали эти серии в /оригина̱ле,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>∙∙∙∙ с любитель’= c любительским /перево̱дом,,,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
@@ -218,19 +293,54 @@
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT
         DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_9f71f117-fafa-4585-9d8f-b545750a3da7">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
+        <DESCRIPTION LANG_REF="und">Active gesture organs</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_7e03fecd-0210-422c-bd0c-15bb15b7ac84">
+            <CVE_VALUE DESCRIPTION="any finger or their combination" LANG_REF="und">finger</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_19b9dc9b-7aa0-401e-87c4-867f107aeee0">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
+            <CVE_VALUE
+                DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_56655e55-d820-4546-a20a-3fce1aedf0f3">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
+            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_709e44da-8c2e-4e76-82f8-e5dfd35edb61">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
+            <CVE_VALUE
+                DESCRIPTION="neck, shoulders, feet, belly and other parts of body" LANG_REF="und">body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b039cf46-9573-44d6-a746-dc9184bbaf2f">
+            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5672ba52-6a34-46e9-808b-c6a924fa504b">
+            <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ecec6163-5b79-4511-86a4-278980d667e4">
+            <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
+            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
+            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6103d27b-af2a-4807-ae55-573e43acb9ca">
+            <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f85c17da-777a-4863-86e3-c66d69546328">
+            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6da8cec9-1d67-40f9-be48-03d441bc07f6">
+            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_491d6140-24f4-47df-bdfe-f10ce6123042">
+            <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c188ed34-246e-4bc4-91e4-ec545670dff6">
+            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d240ec98-4b97-430d-9a17-bd28ad672add">
+            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS">
@@ -284,54 +394,19 @@
             <CVE_VALUE DESCRIPTION="foreign and other tokens" LANG_REF="und">X</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
-        <DESCRIPTION LANG_REF="und">Active gesture organs</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_7e03fecd-0210-422c-bd0c-15bb15b7ac84">
-            <CVE_VALUE DESCRIPTION="any finger or their combination" LANG_REF="und">finger</CVE_VALUE>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_9f71f117-fafa-4585-9d8f-b545750a3da7">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
-            <CVE_VALUE
-                DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_19b9dc9b-7aa0-401e-87c4-867f107aeee0">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_56655e55-d820-4546-a20a-3fce1aedf0f3">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
-            <CVE_VALUE
-                DESCRIPTION="neck, shoulders, feet, belly and other parts of body" LANG_REF="und">body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_b039cf46-9573-44d6-a746-dc9184bbaf2f">
-            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_5672ba52-6a34-46e9-808b-c6a924fa504b">
-            <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_ecec6163-5b79-4511-86a4-278980d667e4">
-            <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
-            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
-            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6103d27b-af2a-4807-ae55-573e43acb9ca">
-            <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_f85c17da-777a-4863-86e3-c66d69546328">
-            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6da8cec9-1d67-40f9-be48-03d441bc07f6">
-            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_491d6140-24f4-47df-bdfe-f10ce6123042">
-            <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c188ed34-246e-4bc4-91e4-ec545670dff6">
-            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_d240ec98-4b97-430d-9a17-bd28ad672add">
-            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_709e44da-8c2e-4e76-82f8-e5dfd35edb61">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
